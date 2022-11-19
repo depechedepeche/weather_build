@@ -10,6 +10,7 @@
   "start_url": " https://depechedepeche.github.io/weather_build",
   "theme_color": "#000000",
   "categories": ["weather"],
+  "prefer_related_applications": false,
   "screenshots": [
     {
       "src": "screen3.png",
