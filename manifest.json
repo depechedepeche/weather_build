@@ -10,7 +10,26 @@
   "start_url": " https://depechedepeche.github.io/weather_build",
   "theme_color": "#000000",
   "categories": ["weather"],
-  "screenshots": [],
+  "screenshots": [
+    {
+      "src": "screen3.png",
+      "sizes": "828x807",
+      "type": "image/jpg",
+      "platform": "tablet"
+    },
+    {
+      "src": "screen1.png",
+      "sizes": "1460x795",
+      "type": "image/jpg",
+      "platform": "wide"
+    },
+    {
+      "src": "screen2.png",
+      "sizes": "501x803",
+      "type": "image/jpg",
+      "platform": "mobile"
+    }
+  ],
   "icons": [
     {
       "src": "windows11/SmallTile.scale-100.png",
