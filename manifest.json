@@ -1,0 +1,26 @@
+{
+  "background_color": "#ffffff",
+  "description": "현재 있는 곳의 날씨, 내가 좋아하는 세계 도시의 날씨를 알아 볼 수 있습니다",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "날씨",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "날씨앱",
+  "start_url": " https://depechedepeche.github.io/weather_build",
+  "theme_color": "#000000",
+  "categories": [
+    "weather"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "favicon.ico"
+    },
+    {
+      "src": "logo192.png"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "ko"
+}
